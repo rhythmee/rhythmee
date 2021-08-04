@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rhythmee
 - 👀 I’m interested in sharing my experience with people.
-- 🌱 I’m currently learning EE💡
-- 📀 Another storehouse of my knowledge : blog.naver.com/insu_cho 
+- 🌱 I’m currently learning an EE💡
 - 📫 How to reach me : insu_cho@naver.com
 
 <!---
